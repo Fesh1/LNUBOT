@@ -20,3 +20,8 @@ LNUBOT
 ```
 ## Main components
 python-telegram-bot, sqlalchemy, BeautifulSoup
+
+# Example how functions work
+
+
+

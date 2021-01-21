@@ -23,7 +23,20 @@ python-telegram-bot, sqlalchemy, BeautifulSoup
 
 # Example how functions work
 
+## Function /get_employee 
+
 <div align="center">
     <img align="center" src="https://github.com/Fesh1/LNUBOT/blob/main/get_employee?raw=true" width="320">
 </div>
 
+## Function /reminder
+
+<div align="center">
+    <img align="center" src="https://github.com/Fesh1/LNUBOT/blob/main/reminder?raw=true" width="320">
+</div>
+
+## Function /get_article_by_id
+
+<div align="center">
+    <img align="center" src="https://github.com/Fesh1/LNUBOT/blob/main/get_article_by_id?raw=true" width="320">
+</div>

@@ -1,6 +1,6 @@
 # Telegram Bot for Lviv university
 Hello and welcome to my project!
-The main goal of the bot is to help students in the learning process. In thin moment bot have two main functions. /get_employeee <faculty> <Name> this function return all info about employee, and /newsletter, this function once a day return actual news in your faculty. In order to set the name of your faculty, you should call function /set_faculty <your_faculty>.
+The main goal of the bot is to help students in the learning process and progress my skills in papser, ORM. In thin moment bot have two main functions. /get_employeee <faculty> <Name> this function return all info about employee, and /newsletter, this function once a day return actual news in your faculty. In order to set the name of your faculty, you should call function /set_faculty <your_faculty>.
   
   # Bot structure 
   ```
@@ -30,7 +30,7 @@ python-telegram-bot, sqlalchemy, BeautifulSoup
 </div>
 
 ## Function /reminder
-
+In this function I scheduled a newsletter at 5:50PM for to present how the function works
 <div align="center">
     <img align="center" src="https://github.com/Fesh1/LNUBOT/blob/main/reminder?raw=true" width="320">
 </div>

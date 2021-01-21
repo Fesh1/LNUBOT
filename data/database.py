@@ -4,7 +4,7 @@ from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy import create_engine
 
 # from settings.consts import DB_URL
-DB_URL = 'postgresql+psycopg2://andrii_fesh:vbhjcz4455@0.0.0.0:5432/lnu'
+DB_URL = ''
 
 # Configure a Session class.
 Session = sessionmaker()

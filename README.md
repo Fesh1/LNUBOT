@@ -23,5 +23,7 @@ python-telegram-bot, sqlalchemy, BeautifulSoup
 
 # Example how functions work
 
-
+<div align="center">
+    <img align="center" src="https://github.com/Fesh1/LNUBOT/blob/main/get_employee.jpeg?raw=true">
+</div>
 

@@ -1,14 +1,14 @@
 # connection credentials
-DB_URL = 'postgresql://andrii_fesh:vbhjcz4455@0.0.0.0:5432/LNU'
+DB_URL = ''
 # admin password
-password = 'Fdbn3fdlvnje32f2tyu8j7'
+password = ''
 admins_id = []
 # entities properties
 # date of birth format
 DATE_FORMAT = '%d.%m.%Y %H:%M'
 
 
-TOKEN = '1414767808:AAEHCTLan831JePOwRoCFAdvsgActHfp0h0'
+TOKEN = ''
 
 faculties = ["bioweb", "geography", "geology", "econom",
               "electronics", "journ", "lingua", "clio",

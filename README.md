@@ -21,6 +21,9 @@ LNUBOT
 ## Main components
 python-telegram-bot, sqlalchemy, BeautifulSoup
 
+### Functions list 
+/start, /get_employee, /newsletter, /get_article_by_id, /reminder, /set_faculty
+
 # Example how functions work
 
 ## Function /get_employee 
